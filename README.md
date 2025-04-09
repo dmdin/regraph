@@ -24,4 +24,4 @@ Prepared for HolyJS conference, the lecture [How to Tame Signals, or a BI System
 
 ## 🖼️ Presentation
 
-(Coming soon)
+[Click here to download](https://squidex.jugru.team/api/assets/srm/be9ecede-e421-4f63-bc25-7be56a40d747/kak-priruchits-signaly.pptx)
